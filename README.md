@@ -1,1 +1,1 @@
-# 🃏 SelfDeck
+# 🃏 DiscordSelfDeck
